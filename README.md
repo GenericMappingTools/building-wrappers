@@ -15,7 +15,7 @@ through the
 
 * [Julia (GMT.jl)](https://github.com/GenericMappingTools/GMT.jl)
 * [Matlab (gmtmex)](https://github.com/GenericMappingTools/gmtmex)
-* [Python (gmt-python)](https://github.com/GenericMappingTools/gmt-python)
+* [Python (PyGMT)](https://github.com/GenericMappingTools/pygmt)
 
 
 ## Hosting
